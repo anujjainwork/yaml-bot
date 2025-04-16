@@ -1,0 +1,5 @@
+enum ConflictType {
+  SDK_CONSTRAINT,
+  DEV_VS_RUNTIME,
+  SRTICT_VERSION_PINNING,
+}
